@@ -1,7 +1,12 @@
-p1 {
+body {
     color: blue;
 }
 
-p2 {
-    color: green;
+header {
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    color: red;
+    background-color: #f4f4f4;
+    padding: 1rem;
+    text-align: center;
 }
